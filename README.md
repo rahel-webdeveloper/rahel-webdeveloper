@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>👋 Hi, I’m Khatibullah Rahel</h1>
+  <h3>👋 Hi, I’m Khatibullah Rahel</h1>
 </p>
 
 ---
@@ -22,8 +22,7 @@ I’m a passionate web developer and Information Systems student based in Afghan
 <details>
 <summary>Backend & Databases</summary>
 
-- **Node.js** • (Express.js – coming soon)  
-- **MySQL**  
+- **Node.js** • (Express.js – coming soon)   
 </details>
 
 <details>
