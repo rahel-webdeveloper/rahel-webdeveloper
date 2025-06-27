@@ -22,7 +22,7 @@ I’m a passionate web developer and Information Systems student based in Afghan
 <details>
 <summary>Backend & Databases</summary>
 
-- **Node.js** • (Express.js – coming soon)   
+- **Node.js** • **Express.js** • **Mongodb**
 </details>
 
 <details>
