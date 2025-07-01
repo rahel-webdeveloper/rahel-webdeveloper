@@ -72,7 +72,7 @@ Completed 70+ small to mid-sized UI exercises, covering cards, forms, landing pa
 
 ## 📫 Connect With Me
 
-- ✉️ rahel@example.com  
+- ✉️ khatibullahrahel25@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)  
 - 🐦 [Twitter](https://twitter.com/rahel)  
 
