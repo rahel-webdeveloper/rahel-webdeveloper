@@ -1,5 +1,5 @@
 <p align="center">
-  <h3 align="center">👋 Hi, I’m Khatibullah Rahel</h1>
+  <h3 align="center" style="color: blue">👋 Hi, I’m Khatibullah Rahel</h1>
 </p>
 
 ---
