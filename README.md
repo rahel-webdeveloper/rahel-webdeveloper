@@ -2,12 +2,14 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khatibullah+Rahel+👋;MERN+Full-Stack+Developer;Building+PWAs+%26+APIs;Always+Learning+%26+Exploring" alt="Typing SVG" />
 </div>
-
+<p>
+Passionate MERN Full-Stack Developer and Information Systems student building production-ready web apps and PWAs. Strong in JavaScript (ES6+), Node.js, Express, and MongoDB; experienced in building lightweight frontends with performance and accessibility in mind. Seeking junior backend/full-stack roles where I can contribute to APIs, PWA features, and developer tooling.
+</p>
 <!-- <h1 align="center">Khatibullah Rahel</h1> -->
 <!-- <h3 align="center">Passionate MERN Full-Stack Developer | PWA Enthusiast | API Builder</h3> -->
 
 
-# 💻 About Me
+## 💻 About Me
 - 🔭 Currently building **PWAs, APIs, and dashboards**  
 - 🌱 Exploring **Next.js, Prisma, and backend architecture**  
 - 🛠️ Strong in **JavaScript, Node.js, and MongoDB**  
@@ -15,15 +17,15 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+#### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### Frontend
+#### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
@@ -31,18 +33,18 @@
 ![Navigo](https://img.shields.io/badge/Navigo-000000?logo=javascript&logoColor=white)
 ![Nano Stores](https://img.shields.io/badge/Nano_Stores-0081CB?logo=javascript&logoColor=white)
 
-### Backend
+#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
-### Database
+#### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-4DB33D?logo=mongodb&logoColor=white)
 
-### DevOps & Tools
+#### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
@@ -55,7 +57,7 @@
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
 - 📝 [Taskly Pro](https://task-ly-ai.vercel.app) — AI-powered Task Management PWA  
 - 💳 [Subscription Tracker API](https://github.com/rahel-webdeveloper/subscription-tracker) — REST API for subscription management  
@@ -63,13 +65,13 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 ![Rahel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahel-webdeveloper&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahel-webdeveloper&layout=compact&theme=tokyonight)  
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahel-webdeveloper&layout=compact&theme=tokyonight)  -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rahel-webdeveloper&theme=tokyonight&hide_border=false)  
 
@@ -77,15 +79,11 @@
 
 ---
 
-# 🤝 Connect
+## 🤝 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)  
 - 🌐 [Portfolio](https://rahel.portfolio.com)  
 - 📧 khatibullahrahel25@gmail.com  
 
----
 
-<div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=rahel-webdeveloper&label=Profile%20views&color=0e75b6&style=flat)
-
-</div>
+<!-- ![Visitors](https://komarev.com/ghpvc/?username=rahel-webdeveloper&label=Profile%20views&color=0e75b6&style=flat) -->
