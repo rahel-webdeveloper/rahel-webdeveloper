@@ -5,8 +5,11 @@
 <p>
 
 ## 💻 About Me
-  
-Passionate MERN Full-Stack Developer and Information Systems student building production-ready web apps and PWAs. Strong in JavaScript (ES6+), Node.js, Express, and MongoDB; experienced in building lightweight frontends with performance and accessibility in mind. Seeking backend/full-stack roles where I can contribute to APIs, PWA features, and developer tooling.
+
+I build production-ready web apps and progressive web apps (PWAs) with a focus on **performance**, **accessibility**, and developer-friendly tooling.
+
+**Core:** JavaScript (ES6+), Node.js, Express, MongoDB, React  
+**Looking for:** Backend / Full-Stack roles where I can ship APIs, PWA features, and dev tooling.
 </p>
 <!-- <h1 align="center">Khatibullah Rahel</h1> -->
 <!-- <h3 align="center">Passionate MERN Full-Stack Developer | PWA Enthusiast | API Builder</h3> -->
@@ -31,6 +34,7 @@ Passionate MERN Full-Stack Developer and Information Systems student building pr
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?logo=chakra-ui&logoColor=white)
 ![Navigo](https://img.shields.io/badge/Navigo-000000?logo=javascript&logoColor=white)
 ![Nano Stores](https://img.shields.io/badge/Nano_Stores-0081CB?logo=javascript&logoColor=white)
