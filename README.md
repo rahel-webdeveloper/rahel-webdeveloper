@@ -6,7 +6,7 @@
 
 ## 💻 About Me
   
-Passionate MERN Full-Stack Developer and Information Systems student building production-ready web apps and PWAs. Strong in JavaScript (ES6+), Node.js, Express, and MongoDB; experienced in building lightweight frontends with performance and accessibility in mind. Seeking junior backend/full-stack roles where I can contribute to APIs, PWA features, and developer tooling.
+Passionate MERN Full-Stack Developer and Information Systems student building production-ready web apps and PWAs. Strong in JavaScript (ES6+), Node.js, Express, and MongoDB; experienced in building lightweight frontends with performance and accessibility in mind. Seeking backend/full-stack roles where I can contribute to APIs, PWA features, and developer tooling.
 </p>
 <!-- <h1 align="center">Khatibullah Rahel</h1> -->
 <!-- <h3 align="center">Passionate MERN Full-Stack Developer | PWA Enthusiast | API Builder</h3> -->
