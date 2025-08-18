@@ -81,7 +81,7 @@ Passionate MERN Full-Stack Developer and Information Systems student building pr
 
 ## 🤝 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)  
-- 🌐 [Portfolio](https://rahel.portfolio.com)  
+- 🌐 [Portfolio](https://rahel-portfolio-one.vercel.app)  
 - 📧 khatibullahrahel25@gmail.com  
 
 
