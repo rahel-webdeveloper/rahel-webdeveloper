@@ -3,14 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khatibullah+Rahel+👋;MERN+Full-Stack+Developer;Building+PWAs+%26+APIs;Always+Learning+%26+Exploring" alt="Typing SVG" />
 </div>
 <p>
+
+## 💻 About Me
+  
 Passionate MERN Full-Stack Developer and Information Systems student building production-ready web apps and PWAs. Strong in JavaScript (ES6+), Node.js, Express, and MongoDB; experienced in building lightweight frontends with performance and accessibility in mind. Seeking junior backend/full-stack roles where I can contribute to APIs, PWA features, and developer tooling.
 </p>
 <!-- <h1 align="center">Khatibullah Rahel</h1> -->
 <!-- <h3 align="center">Passionate MERN Full-Stack Developer | PWA Enthusiast | API Builder</h3> -->
 
 
-## 💻 About Me
-- 🔭 Currently building **PWAs, APIs, and dashboards**  
+- 🔭 Currently building **AI-Driven Language Learning PWA**  
 - 🌱 Exploring **Next.js, Prisma, and backend architecture**  
 - 🛠️ Strong in **JavaScript, Node.js, and MongoDB**  
 - ⚡ Fun fact: I solve algorithms in **JavaScript daily**  
