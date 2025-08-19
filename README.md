@@ -7,7 +7,6 @@
 ## 💻 About Me
 
 I build production-ready web apps and progressive web apps (PWAs) with a focus on **performance**, **accessibility**, and developer-friendly tooling.
-
 **Core:** JavaScript (ES6+), Node.js, Express, MongoDB, React  
 **Looking for:** Backend / Full-Stack roles where I can ship APIs, PWA features, and dev tooling.
 </p>
@@ -72,7 +71,7 @@ I build production-ready web apps and progressive web apps (PWAs) with a focus o
 ---
 
 ## 📊 GitHub Stats
-
+<!-- 
 <div align="center">
 
 ![Rahel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahel-webdeveloper&show_icons=true&theme=tokyonight)  
@@ -82,6 +81,7 @@ I build production-ready web apps and progressive web apps (PWAs) with a focus o
 ![GitHub Streak](https://streak-stats.demolab.com?user=rahel-webdeveloper&theme=tokyonight&hide_border=false)  
 
 </div>
+-->
 
 ---
 
