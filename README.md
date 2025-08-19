@@ -77,11 +77,11 @@ I build production-ready web apps and progressive web apps (PWAs) with a focus o
 - 📝 [Taskly Pro](https://github.com/rahel-webdeveloper/taskly) — AI-powered Task Management PWA  
 - 💳 [Subscription Tracker API](https://github.com/rahel-webdeveloper/subscription-tracker) — REST API for subscription management  
 - 🎮 [GameHub](https://github.com/rahel-webdeveloper/game-hub-rahel) — Video game discovery app  
-
+<!-- 
 ---
 
 ## 📊 GitHub Stats
-<!-- 
+
 <div align="center">
 
 ![Rahel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahel-webdeveloper&show_icons=true&theme=tokyonight)  
@@ -92,8 +92,6 @@ I build production-ready web apps and progressive web apps (PWAs) with a focus o
 
 </div>
 -->
-
----
 
 ## 🤝 Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)  
