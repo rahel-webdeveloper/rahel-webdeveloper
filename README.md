@@ -77,7 +77,7 @@ I build production-ready web apps and progressive web apps (PWAs) with a focus o
 
 ![Rahel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahel-webdeveloper&show_icons=true&theme=tokyonight)  
 
-<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahel-webdeveloper&layout=compact&theme=tokyonight)  -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahel-webdeveloper&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rahel-webdeveloper&theme=tokyonight&hide_border=false)  
 
