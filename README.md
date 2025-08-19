@@ -1,15 +1,25 @@
 <!-- Typing SVG (Centered) -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Khatibullah+Rahel+👋;MERN+Full-Stack+Developer;Building+PWAs+%26+APIs;Always+Learning+%26+Exploring" alt="Typing SVG" />
-</div>
-<p>
+</div> -->
+
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Khatibullah%20Rahel-303948?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=303948" alt="Khatibullah Rahel Badge" height="90"/>
+</h1>
+
+
+
+
+
+
+
 
 ## 💻 About Me
 
 I build production-ready web apps and progressive web apps (PWAs) with a focus on **performance**, **accessibility**, and developer-friendly tooling.
 **Core:** JavaScript (ES6+), Node.js, Express, MongoDB, React  
 **Looking for:** Backend / Full-Stack roles where I can ship APIs, PWA features, and dev tooling.
-</p>
+
 <!-- <h1 align="center">Khatibullah Rahel</h1> -->
 <!-- <h3 align="center">Passionate MERN Full-Stack Developer | PWA Enthusiast | API Builder</h3> -->
 
@@ -64,9 +74,9 @@ I build production-ready web apps and progressive web apps (PWAs) with a focus o
 
 ## 🚀 Projects
 
-- 📝 [Taskly Pro](https://task-ly-ai.vercel.app) — AI-powered Task Management PWA  
+- 📝 [Taskly Pro](https://github.com/rahel-webdeveloper/taskly) — AI-powered Task Management PWA  
 - 💳 [Subscription Tracker API](https://github.com/rahel-webdeveloper/subscription-tracker) — REST API for subscription management  
-- 🎮 [GameHub](https://game-hub-rahel.vercel.app) — Video game discovery app  
+- 🎮 [GameHub](https://github.com/rahel-webdeveloper/game-hub-rahel) — Video game discovery app  
 
 ---
 
