@@ -94,7 +94,7 @@ I build production-ready web apps and progressive web apps (PWAs) with a focus o
 -->
 
 ## 🤝 Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/khatibullahrahel)  
 - 🌐 [Portfolio](https://rahel-portfolio-one.vercel.app)  
 - 📧 khatibullahrahel25@gmail.com  
 
